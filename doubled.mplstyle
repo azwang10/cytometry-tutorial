@@ -1,0 +1,20 @@
+font.sans-serif:	Arial
+font.size:			20
+
+lines.linewidth:	3
+axes.linewidth:		1.6
+
+
+xtick.major.size:	7        # major tick size in points
+xtick.minor.size:	4        # minor tick size in points
+xtick.major.width:	1.6      # major tick width in points
+xtick.minor.width:	1.2      # minor tick width in points
+xtick.major.pad:	7        # distance to major tick label in points
+xtick.minor.pad:	6.8      # distance to the minor tick label in points
+
+ytick.major.size:	7        # major tick size in points
+ytick.minor.size:	4        # minor tick size in points
+ytick.major.width:	1.6      # major tick width in points
+ytick.minor.width:	1.2      # minor tick width in points
+ytick.major.pad:	7        # distance to major tick label in points
+ytick.minor.pad:	6.8      # distance to the minor tick label in points
