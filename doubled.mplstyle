@@ -3,6 +3,7 @@ font.size:			20
 
 lines.linewidth:	3
 axes.linewidth:		1.6
+lines.markersize:	8.485
 
 
 xtick.major.size:	7        # major tick size in points
